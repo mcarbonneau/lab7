@@ -92,7 +92,7 @@ module Stack : STACK =
 (*......................................................................
 Exercise 4B: Write a function, s, that takes a unit argument and uses
 your Stack module to return a new stack with the following strings
-pushed in order: "Computer", "Science", "51".
+pushed in order: "Computer", "Science", "51". -----
 ......................................................................*)
 
 let s () : stack = 
